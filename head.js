@@ -14,4 +14,4 @@ function head (arr) {
 assertEqual('light', 'labs');
 assertEqual(2, 3);
 
-//arr[arr.length - 1] - last index of array
+
