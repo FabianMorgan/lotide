@@ -26,7 +26,7 @@ function tail (arrTail) {
   }
 
 console.log(tail([1, 2, 3, 4, 5]))
-//arr[arr.length - 1] - last index of array
+
 
 // TEST CODE
 assertEqual('light', 'labs');
