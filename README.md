@@ -12,11 +12,11 @@ This project was created and published by me as part of my learnings at Lighthou
 
 **Install it:**
 
-`npm install @FabianMorgan/lotide`
+`npm install @fabagan/lotide`
 
 **Require it:**
 
-`const _ = require('@FabianMorgan/lotide');`
+`const _ = require('@fabagan/lotide');`
 
 **Call it:**
 
@@ -27,8 +27,6 @@ This project was created and published by me as part of my learnings at Lighthou
 The following functions are currently implemented:
 
 * `function1(...)`: description
-* `function2(...)`: description
-* `function3(...)`: description
 * `assertArraysEqual`: compares 2 arrays and returns if they are the same
 * `assertEqual(array)`: compares 2 values and returns if they are the same
 * `countLetters(array)`: returns the number of letters in a string

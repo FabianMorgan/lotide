@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@fabagan/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "fabagan's first npm.module.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/FabianMorgan/lotide.git"
   },
-  "author": "",
+  "author": "Fabian Morgan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FabianMorgan/lotide/issues"
