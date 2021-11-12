@@ -13,6 +13,7 @@ const map = function(array, callback) {
     console.log(results)
   }  
   return results;
-}
+};
+map(words);
 
 module.exports = map;
